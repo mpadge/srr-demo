@@ -1,0 +1,19 @@
+Package: demo
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+  person(given = "First",
+         family = "Last",
+         role = c("aut", "cre"),
+         email = "first.last@example.com")
+Description: What the package does (one paragraph).
+Imports:
+    Rcpp
+Suggests:
+    testthat
+LinkingTo:
+    Rcpp
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE, roclets = c ("rd", "namespace", "srr::srr_stats_roclet"))
+RoxygenNote: 7.1.1

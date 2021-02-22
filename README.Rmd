@@ -1,0 +1,21 @@
+# demo
+
+This is a skeleton of an [`srr` statistics](https://github.com/ropenscilabs/srr)
+package, intended developers to tweak as they like, in order to understand 
+how the package's roclets work.
+
+This `README.Rmd` file is here to demonstrate how to embed `srr` roclet tags.
+These tags need to be within dedicated *code chunks*, like the following:
+
+```{r srr-tags, eval = FALSE, echo = FALSE}
+#' roxygen_block_name
+#'
+#' (Add some text if you like)
+#'
+#' @srrstats {A1.4} Here is a reference to a standard
+#' @srrstatsTODO {A1.5} And here is a reference to a standard yet to be addressed
+```
+
+Note the chunk contains only [`roxygen2`](https://roxygen2.r-lib.org) lines,
+and nothing else at all. Please change the `eval` and `echo` parameters to
+see what happens when you knit the document.
