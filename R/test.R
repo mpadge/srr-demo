@@ -4,7 +4,7 @@
 #'
 #' @srrstats {G1.1, G1.2, G1.3} with some text
 #' @srrstats Text can appear before standards {G2.0, G2.1}
-#' @srrstatsTODO {S1.1} standards which are still to be
+#' @srrstatsTODO {RE1.1} standards which are still to be
 #' addressed are tagged 'srrstatsTODO'
 #'
 #' @export
