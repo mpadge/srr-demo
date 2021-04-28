@@ -13,7 +13,7 @@ These tags need to be within dedicated *code chunks*, like the following:
 #' (Add some text if you like)
 #'
 #' @srrstats {G1.4} Here is a reference to a standard
-#' @srrstatsTODO {G1.5} And here is a reference to a standard yet to be addressed
+#' @srrstats {G1.5} And here is a reference to another standard
 ```
 
 Note the chunk contains only [`roxygen2`](https://roxygen2.r-lib.org) lines,
