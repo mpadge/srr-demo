@@ -133,5 +133,7 @@ NULL
 #' to `@srrstatsNA`, and placed together in this block, along with explanations
 #' for why each of these standards have been deemed not applicable.
 #' (These comments may also be deleted at any time.)
+#' @srrstatsNA {G1.4a}
+#' @srrstatsNA {G1.6}
 #' @noRd
 NULL
