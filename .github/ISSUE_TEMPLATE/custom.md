@@ -23,8 +23,6 @@ body:
       descriptions: Delete if not, otherwise please do not delete the HTML comments
       placeholder: <!--author-others-->Name (@github_handle)<!--end-author-others-->
       value: "<!--author-others-->Name (@github_handle)<!--end-author-others-->"
-labels: ''
-assignees: ''
 
 ---
 
